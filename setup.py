@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-from numpy.distutils.core import setup, Extension
 from os import path
 import io
 
